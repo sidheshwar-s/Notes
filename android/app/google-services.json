@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "366600350973",
+    "project_id": "notes-61698",
+    "storage_bucket": "notes-61698.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:366600350973:android:64a9bd495447cb52eae294",
+        "android_client_info": {
+          "package_name": "com.Sidhesh.notes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "366600350973-8kcn79j25vshifqbj3i0beqhita0n8oj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgrRlwmJa7i8teLOyKyNDOjjqrOGUNCYo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "366600350973-8kcn79j25vshifqbj3i0beqhita0n8oj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
